@@ -15,3 +15,8 @@ This is done by creating a UV map for each object, and then baking the right tex
 ## Lighting
 
 ## Camera settings
+
+
+## Project
+Link to the unreal project:
+https://heriotwatt-my.sharepoint.com/:u:/g/personal/yl2014_hw_ac_uk/EceTbk_K6QxCoOS-dY9B24MBZ4ge9PvybQsR2vBurG5FDg?e=O55qhj
